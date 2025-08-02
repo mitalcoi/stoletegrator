@@ -1,0 +1,6 @@
+parameters:
+    level: 2
+    treatPhpDocTypesAsCertain: false
+    excludePaths:
+        - %currentWorkingDirectory%/tests/*
+

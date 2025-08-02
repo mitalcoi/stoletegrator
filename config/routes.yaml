@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../src/Product/Controller/
+        namespace: Product\Controller
+    type: attribute
